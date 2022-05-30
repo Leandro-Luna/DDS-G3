@@ -7,7 +7,7 @@ import MonthAgendaView from './monthAgendaView'
 
 const AgendaAgentes = () => {
   return (
-    <div className='login_container-agenda'>
+    <div className='login-container-agenda'>
         <MonthAgendaView />
 {/*         <div className='sec-calendario-cuadro'>
           <div className='sec-calendario-titulo'>Calendario de citas</div>
