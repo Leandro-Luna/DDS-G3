@@ -1,5 +1,3 @@
-import favicon from "serve-favicon";
-server.use(favicon(path.join(__dirname, "../assets/images/favicon.ico")));
 const express = require('express');
 const app = express();
 
