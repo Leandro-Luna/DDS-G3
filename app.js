@@ -1,15 +1,16 @@
+import favicon from "serve-favicon";
+server.use(favicon(path.join(__dirname, "../assets/images/favicon.ico")));
 const express = require('express');
 const app = express();
 
 const path = require('path');
 
 const port = process.env.PORT || 3000;
-
 if (process.env.NODE_ENV === "production"){
     app.use(express.static('build'));
     app.get('*', (req, res) => {
         req.sendFile(path.resolve(__dirname, 'build', 'index.html'));
-
+        
     })
 }
 
