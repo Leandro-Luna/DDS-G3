@@ -13,7 +13,7 @@ import {Inicio, Login, CatalogoSni, ClienteVerPropiedadSni, ClienteCompletarForm
         ConsultarReportes2,MenuGerente2,ReportesGerente2, ReportesVentasGerente2, ReportesAlquilerGerente2,
          ReportesClientesGerente2,ReportesPropiedadesGerente2, ReporteVentaJefa2, 
         ReporteAlquilerJefa2, ReporteEntradaSalida2,
-        MenuJefeComercializacion, VerSeguimientoJefeComer, SeleccionReporte, ConsultarPropiedades,ConsultarClientes
+        MenuJefeComercializacion, VerSeguimientoJefeComer, SeleccionReporte, ConsultarPropiedades,ConsultarClientes, MostrarClienteJefeAdmin
       } from './paginas'
 
 
@@ -88,6 +88,8 @@ const App = () => {
             <Route exact path='/seleccionReporte' element={<SeleccionReporte/>}/>
             <Route exact path='/consultarPropiedades' element={<ConsultarPropiedades/>}/>
             <Route exact path='/consultarClientes' element={<ConsultarClientes/>}/>
+            <Route exact path='/mostrarCliente' element={<MostrarClienteJefeAdmin/>}/>
+            
         </Routes>
     </div>
   )

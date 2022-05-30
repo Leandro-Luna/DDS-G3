@@ -71,3 +71,4 @@ export {default as SeguimientoJefeComer} from './seguimientoJefeComer/seguimient
 export {default as SeleccionReporteJefeC} from './seleccionReporteJefeC/seleccionReporteJefeC'
 export {default as ConsultarPropiedad} from './consultarPropiedades/consultarPropiedades'
 export {default as ConsultarCliente} from './consultarCliente/consultarCliente'
+export {default as MostrarClienteJefeAdm} from './mostrarClienteJefeAdm/mostrarClienteJefeAdm'

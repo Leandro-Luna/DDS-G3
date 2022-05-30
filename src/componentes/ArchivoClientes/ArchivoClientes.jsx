@@ -15,7 +15,7 @@ const ArchivoClientes = () => {
                         <form method='POST' className='Cuerpo-Codigo-archivo'>       
                                 <label>Insertar código del cliente</label>
                                 <input className='input-codigo' type='number' name='Espacios'></input>
-                                <input className='cuerpo-boton-archivo' type='submit' value='Buscar cliente'></input>
+                                <Link to='/mostrarCliente'><button className='btn-buscar-cliente'> Buscar cliente </button></Link>
                         </form>    
                     </div>
             </div>         

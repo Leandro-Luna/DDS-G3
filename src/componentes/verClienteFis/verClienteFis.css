@@ -42,3 +42,14 @@
 .ver-cliente-cuadro-renglon-link{
     font-size: 20px;
 }
+.btn-buscar-cliente{
+    background: #a4a4a4;
+    border-radius: 0.5rem;
+    font-weight: 500;
+    font-size: 22px;
+    color: #fff;
+    width: 22rem;
+    padding: .5rem 1.5rem;
+    border: none;
+    cursor: pointer;
+}

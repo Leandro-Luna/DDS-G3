@@ -68,3 +68,5 @@ export {default as VerSeguimientoJefeComer} from './verSeguimientoJefeComer/verS
 export {default as SeleccionReporte} from './seleccionReporte/seleccionReporte'
 export {default as ConsultarPropiedades} from './consultarPropiedades/ConsultarPropiedades'
 export {default as ConsultarClientes} from './consultarClientes/ConsultarClientes'
+export {default as MostrarClienteJefeAdmin} from './mostrarClienteJefeAdmin/mostrarClienteJefeAdmin'
+
