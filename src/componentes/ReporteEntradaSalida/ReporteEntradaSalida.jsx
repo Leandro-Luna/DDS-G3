@@ -22,79 +22,79 @@ const ReporteEntradaSalida = () => {
                         <td>xxxxxxxxx</td>
                         <td>9999999999</td>
                         <td>99/99/9999</td>
-                        <td><a href="Files\ReporteCajadeEntradas-Salidas.pdf" download="ReportedeCajasEntradaSalida" className='boton-volver-Reportes-PDF-entsal-jefa'>PDF</a></td>
+                        <td><a href="files\ReporteCajadeEntradas-Salidas.pdf" download="ReportedeCajasEntradaSalida" className='boton-volver-Reportes-PDF-entsal-jefa'>PDF</a></td>
                     </tr>
                     <tr>
                         <td>xxxxxxxxx</td>
                         <td>9999999999</td>
                         <td>99/99/9999</td>
-                        <td><a href="Files\ReporteCajadeEntradas-Salidas.pdf" download="ReportedeCajasEntradaSalida" className='boton-volver-Reportes-PDF-entsal-jefa'>PDF</a></td>
+                        <td><a href="files\ReporteCajadeEntradas-Salidas.pdf" download="ReportedeCajasEntradaSalida" className='boton-volver-Reportes-PDF-entsal-jefa'>PDF</a></td>
                     </tr>
                     <tr>
                         <td>xxxxxxxxx</td>
                         <td>9999999999</td>
                         <td>99/99/9999</td>
-                        <td><a href="Files\ReporteCajadeEntradas-Salidas.pdf" download="ReportedeCajasEntradaSalida" className='boton-volver-Reportes-PDF-entsal-jefa'>PDF</a></td>
+                        <td><a href="files\ReporteCajadeEntradas-Salidas.pdf" download="ReportedeCajasEntradaSalida" className='boton-volver-Reportes-PDF-entsal-jefa'>PDF</a></td>
                     </tr>
                     <tr>
                         <td>xxxxxxxxx</td>
                         <td>9999999999</td>
                         <td>99/99/9999</td>
-                        <td><a href="Files\ReporteCajadeEntradas-Salidas.pdf" download="ReportedeCajasEntradaSalida" className='boton-volver-Reportes-PDF-entsal-jefa'>PDF</a></td>
+                        <td><a href="files\ReporteCajadeEntradas-Salidas.pdf" download="ReportedeCajasEntradaSalida" className='boton-volver-Reportes-PDF-entsal-jefa'>PDF</a></td>
                     </tr>
                     <tr>
                         <td>xxxxxxxxx</td>
                         <td>9999999999</td>
                         <td>99/99/9999</td>
-                        <td><a href="Files\ReporteCajadeEntradas-Salidas.pdf" download="ReportedeCajasEntradaSalida" className='boton-volver-Reportes-PDF-entsal-jefa'>PDF</a></td>
+                        <td><a href="files\ReporteCajadeEntradas-Salidas.pdf" download="ReportedeCajasEntradaSalida" className='boton-volver-Reportes-PDF-entsal-jefa'>PDF</a></td>
                     </tr>
                     <tr>
                         <td>xxxxxxxxx</td>
                         <td>9999999999</td>
                         <td>99/99/9999</td>
-                        <td><a href="Files\ReporteCajadeEntradas-Salidas.pdf" download="ReportedeCajasEntradaSalida" className='boton-volver-Reportes-PDF-entsal-jefa'>PDF</a></td>
+                        <td><a href="files\ReporteCajadeEntradas-Salidas.pdf" download="ReportedeCajasEntradaSalida" className='boton-volver-Reportes-PDF-entsal-jefa'>PDF</a></td>
                     </tr>
                     <tr>
                         <td>xxxxxxxxx</td>
                         <td>9999999999</td>
                         <td>99/99/9999</td>
-                        <td><a href="Files\ReporteCajadeEntradas-Salidas.pdf" download="ReportedeCajasEntradaSalida" className='boton-volver-Reportes-PDF-entsal-jefa'>PDF</a></td>
+                        <td><a href="files\ReporteCajadeEntradas-Salidas.pdf" download="ReportedeCajasEntradaSalida" className='boton-volver-Reportes-PDF-entsal-jefa'>PDF</a></td>
                     </tr>
                     <tr>
                         <td>xxxxxxxxx</td>
                         <td>9999999999</td>
                         <td>99/99/9999</td>
-                        <td><a href="Files\ReporteCajadeEntradas-Salidas.pdf" download="ReportedeCajasEntradaSalida" className='boton-volver-Reportes-PDF-entsal-jefa'>PDF</a></td>
+                        <td><a href="files\ReporteCajadeEntradas-Salidas.pdf" download="ReportedeCajasEntradaSalida" className='boton-volver-Reportes-PDF-entsal-jefa'>PDF</a></td>
                     </tr>
                     <tr>
                         <td>xxxxxxxxx</td>
                         <td>9999999999</td>
                         <td>99/99/9999</td>
-                        <td><a href="Files\ReporteCajadeEntradas-Salidas.pdf" download="ReportedeCajasEntradaSalida" className='boton-volver-Reportes-PDF-entsal-jefa'>PDF</a></td>
+                        <td><a href="files\ReporteCajadeEntradas-Salidas.pdf" download="ReportedeCajasEntradaSalida" className='boton-volver-Reportes-PDF-entsal-jefa'>PDF</a></td>
                     </tr>
                     <tr>
                         <td>xxxxxxxxx</td>
                         <td>9999999999</td>
                         <td>99/99/9999</td>
-                        <td><a href="Files\ReporteCajadeEntradas-Salidas.pdf" download="ReportedeCajasEntradaSalida" className='boton-volver-Reportes-PDF-entsal-jefa'>PDF</a></td>
+                        <td><a href="files\ReporteCajadeEntradas-Salidas.pdf" download="ReportedeCajasEntradaSalida" className='boton-volver-Reportes-PDF-entsal-jefa'>PDF</a></td>
                     </tr>
                     <tr>
                         <td>xxxxxxxxx</td>
                         <td>9999999999</td>
                         <td>99/99/9999</td>
-                        <td><a href="Files\ReporteCajadeEntradas-Salidas.pdf" download="ReportedeCajasEntradaSalida" className='boton-volver-Reportes-PDF-entsal-jefa'>PDF</a></td>
+                        <td><a href="files\ReporteCajadeEntradas-Salidas.pdf" download="ReportedeCajasEntradaSalida" className='boton-volver-Reportes-PDF-entsal-jefa'>PDF</a></td>
                     </tr>
                     <tr>
                         <td>xxxxxxxxx</td>
                         <td>9999999999</td>
                         <td>99/99/9999</td>
-                        <td><a href="Files\ReporteCajadeEntradas-Salidas.pdf" download="ReportedeCajasEntradaSalida" className='boton-volver-Reportes-PDF-entsal-jefa'>PDF</a></td>
+                        <td><a href="files\ReporteCajadeEntradas-Salidas.pdf" download="ReportedeCajasEntradaSalida" className='boton-volver-Reportes-PDF-entsal-jefa'>PDF</a></td>
                     </tr>
                     <tr>
                         <td>xxxxxxxxx</td>
                         <td>9999999999</td>
                         <td>99/99/9999</td>
-                        <td><a href="Files\ReporteCajadeEntradas-Salidas.pdf" download="ReportedeCajasEntradaSalida" className='boton-volver-Reportes-PDF-entsal-jefa'>PDF</a></td>
+                        <td><a href="files\ReporteCajadeEntradas-Salidas.pdf" download="ReportedeCajasEntradaSalida" className='boton-volver-Reportes-PDF-entsal-jefa'>PDF</a></td>
                     </tr>
                     </tbody>
                     

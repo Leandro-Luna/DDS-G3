@@ -22,79 +22,79 @@ const ReporteVentaJefa = () => {
                         <td>xxxxxxxxx</td>
                         <td>9999999999</td>
                         <td>99/99/9999</td>
-                        <td><a href="Files\ReporteCajadeVentas.pdf" download="ReporteCajadeVentas" className='boton-volver-Reportes-PDF-venta-jefa'>PDF</a></td>
+                        <td><a href="files\ReporteCajadeVentas.pdf" download="ReporteCajadeVentas" className='boton-volver-Reportes-PDF-venta-jefa'>PDF</a></td>
                     </tr>
                     <tr>
                         <td>xxxxxxxxx</td>
                         <td>9999999999</td>
                         <td>99/99/9999</td>
-                        <td><a href="Files\ReporteCajadeVentas.pdf" download="ReporteCajadeVentas" className='boton-volver-Reportes-PDF-venta-jefa'>PDF</a></td>
+                        <td><a href="files\ReporteCajadeVentas.pdf" download="ReporteCajadeVentas" className='boton-volver-Reportes-PDF-venta-jefa'>PDF</a></td>
                     </tr>
                     <tr>
                         <td>xxxxxxxxx</td>
                         <td>9999999999</td>
                         <td>99/99/9999</td>
-                        <td><a href="Files\ReporteCajadeVentas.pdf" download="ReporteCajadeVentas" className='boton-volver-Reportes-PDF-venta-jefa'>PDF</a></td>
+                        <td><a href="files\ReporteCajadeVentas.pdf" download="ReporteCajadeVentas" className='boton-volver-Reportes-PDF-venta-jefa'>PDF</a></td>
                     </tr>
                     <tr>
                         <td>xxxxxxxxx</td>
                         <td>9999999999</td>
                         <td>99/99/9999</td>
-                        <td><a href="Files\ReporteCajadeVentas.pdf" download="ReporteCajadeVentas" className='boton-volver-Reportes-PDF-venta-jefa'>PDF</a></td>
+                        <td><a href="files\ReporteCajadeVentas.pdf" download="ReporteCajadeVentas" className='boton-volver-Reportes-PDF-venta-jefa'>PDF</a></td>
                     </tr>
                     <tr>
                         <td>xxxxxxxxx</td>
                         <td>9999999999</td>
                         <td>99/99/9999</td>
-                        <td><a href="Files\ReporteCajadeVentas.pdf" download="ReporteCajadeVentas" className='boton-volver-Reportes-PDF-venta-jefa'>PDF</a></td>
+                        <td><a href="files\ReporteCajadeVentas.pdf" download="ReporteCajadeVentas" className='boton-volver-Reportes-PDF-venta-jefa'>PDF</a></td>
                     </tr>
                     <tr>
                         <td>xxxxxxxxx</td>
                         <td>9999999999</td>
                         <td>99/99/9999</td>
-                        <td><a href="Files\ReporteCajadeVentas.pdf" download="ReporteCajadeVentas" className='boton-volver-Reportes-PDF-venta-jefa'>PDF</a></td>
+                        <td><a href="files\ReporteCajadeVentas.pdf" download="ReporteCajadeVentas" className='boton-volver-Reportes-PDF-venta-jefa'>PDF</a></td>
                     </tr>
                     <tr>
                         <td>xxxxxxxxx</td>
                         <td>9999999999</td>
                         <td>99/99/9999</td>
-                        <td><a href="Files\ReporteCajadeVentas.pdf" download="ReporteCajadeVentas" className='boton-volver-Reportes-PDF-venta-jefa'>PDF</a></td>
+                        <td><a href="files\ReporteCajadeVentas.pdf" download="ReporteCajadeVentas" className='boton-volver-Reportes-PDF-venta-jefa'>PDF</a></td>
                     </tr>
                     <tr>
                         <td>xxxxxxxxx</td>
                         <td>9999999999</td>
                         <td>99/99/9999</td>
-                        <td><a href="Files\ReporteCajadeVentas.pdf" download="ReporteCajadeVentas" className='boton-volver-Reportes-PDF-venta-jefa'>PDF</a></td>
+                        <td><a href="files\ReporteCajadeVentas.pdf" download="ReporteCajadeVentas" className='boton-volver-Reportes-PDF-venta-jefa'>PDF</a></td>
                     </tr>
                     <tr>
                         <td>xxxxxxxxx</td>
                         <td>9999999999</td>
                         <td>99/99/9999</td>
-                        <td><a href="Files\ReporteCajadeVentas.pdf" download="ReporteCajadeVentas" className='boton-volver-Reportes-PDF-venta-jefa'>PDF</a></td>
+                        <td><a href="files\ReporteCajadeVentas.pdf" download="ReporteCajadeVentas" className='boton-volver-Reportes-PDF-venta-jefa'>PDF</a></td>
                     </tr>
                     <tr>
                         <td>xxxxxxxxx</td>
                         <td>9999999999</td>
                         <td>99/99/9999</td>
-                        <td><a href="Files\ReporteCajadeVentas.pdf" download="ReporteCajadeVentas" className='boton-volver-Reportes-PDF-venta-jefa'>PDF</a></td>
+                        <td><a href="files\ReporteCajadeVentas.pdf" download="ReporteCajadeVentas" className='boton-volver-Reportes-PDF-venta-jefa'>PDF</a></td>
                     </tr>
                     <tr>
                         <td>xxxxxxxxx</td>
                         <td>9999999999</td>
                         <td>99/99/9999</td>
-                        <td><a href="Files\ReporteCajadeVentas.pdf" download="ReporteCajadeVentas" className='boton-volver-Reportes-PDF-venta-jefa'>PDF</a></td>
+                        <td><a href="files\ReporteCajadeVentas.pdf" download="ReporteCajadeVentas" className='boton-volver-Reportes-PDF-venta-jefa'>PDF</a></td>
                     </tr>
                     <tr>
                         <td>xxxxxxxxx</td>
                         <td>9999999999</td>
                         <td>99/99/9999</td>
-                        <td><a href="Files\ReporteCajadeVentas.pdf" download="ReporteCajadeVentas" className='boton-volver-Reportes-PDF-venta-jefa'>PDF</a></td>
+                        <td><a href="files\ReporteCajadeVentas.pdf" download="ReporteCajadeVentas" className='boton-volver-Reportes-PDF-venta-jefa'>PDF</a></td>
                     </tr>
                     <tr>
                         <td>xxxxxxxxx</td>
                         <td>9999999999</td>
                         <td>99/99/9999</td>
-                        <td><a href="Files\ReporteCajadeVentas.pdf" download="ReporteCajadeVentas" className='boton-volver-Reportes-PDF-venta-jefa'>PDF</a></td>
+                        <td><a href="files\ReporteCajadeVentas.pdf" download="ReporteCajadeVentas" className='boton-volver-Reportes-PDF-venta-jefa'>PDF</a></td>
                     </tr>
                     </tbody>
                  </table>
