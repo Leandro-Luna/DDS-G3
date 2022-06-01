@@ -22,7 +22,7 @@ const ConsultarReportes = () => {
                    </div>
           </div>
           <div >                    
-          <Link to='/MenuJefaAdministracion'><button className='boton-volver-Menu-jefe'> Volver al menú </button></Link>
+          <Link to='/files//MenuJefaAdministracion'><button className='boton-volver-Menu-jefe'> Volver al menú </button></Link>
             </div>
       </div>
     )
