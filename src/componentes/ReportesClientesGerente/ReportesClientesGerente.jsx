@@ -22,79 +22,79 @@ const ReportesClientesGerente = () => {
                         <td>xxxxxxxxx</td>
                         <td>9999999999</td>
                         <td>99/99/9999</td>
-                        <td><a href="Files\ReporteClientes.pdf" download="ReporteClientes" className='boton-volver-Reportes-PDF-gerente'>PDF</a></td>
+                        <td><a href="files\ReporteClientes.pdf" download="ReporteClientes" className='boton-volver-Reportes-PDF-gerente'>PDF</a></td>
                     </tr>
                     <tr>
                         <td>xxxxxxxxx</td>
                         <td>9999999999</td>
                         <td>99/99/9999</td>
-                        <td><a href="Files\ReporteClientes.pdf" download="ReporteClientes" className='boton-volver-Reportes-PDF-gerente'>PDF</a></td>
+                        <td><a href="files\ReporteClientes.pdf" download="ReporteClientes" className='boton-volver-Reportes-PDF-gerente'>PDF</a></td>
                     </tr>
                     <tr>
                         <td>xxxxxxxxx</td>
                         <td>9999999999</td>
                         <td>99/99/9999</td>
-                        <td><a href="Files\ReporteClientes.pdf" download="ReporteClientes" className='boton-volver-Reportes-PDF-gerente'>PDF</a></td>
+                        <td><a href="files\ReporteClientes.pdf" download="ReporteClientes" className='boton-volver-Reportes-PDF-gerente'>PDF</a></td>
                     </tr>
                     <tr>
                         <td>xxxxxxxxx</td>
                         <td>9999999999</td>
                         <td>99/99/9999</td>
-                        <td><a href="Files\ReporteClientes.pdf" download="ReporteClientes" className='boton-volver-Reportes-PDF-gerente'>PDF</a></td>
+                        <td><a href="files\ReporteClientes.pdf" download="ReporteClientes" className='boton-volver-Reportes-PDF-gerente'>PDF</a></td>
                     </tr>
                     <tr>
                         <td>xxxxxxxxx</td>
                         <td>9999999999</td>
                         <td>99/99/9999</td>
-                        <td><a href="Files\ReporteClientes.pdf" download="ReporteClientes" className='boton-volver-Reportes-PDF-gerente'>PDF</a></td>
+                        <td><a href="files\ReporteClientes.pdf" download="ReporteClientes" className='boton-volver-Reportes-PDF-gerente'>PDF</a></td>
                     </tr>
                     <tr>
                         <td>xxxxxxxxx</td>
                         <td>9999999999</td>
                         <td>99/99/9999</td>
-                        <td><a href="Files\ReporteClientes.pdf" download="ReporteClientes" className='boton-volver-Reportes-PDF-gerente'>PDF</a></td>
+                        <td><a href="files\ReporteClientes.pdf" download="ReporteClientes" className='boton-volver-Reportes-PDF-gerente'>PDF</a></td>
                     </tr>
                     <tr>
                         <td>xxxxxxxxx</td>
                         <td>9999999999</td>
                         <td>99/99/9999</td>
-                        <td><a href="Files\ReporteClientes.pdf" download="ReporteClientes" className='boton-volver-Reportes-PDF-gerente'>PDF</a></td>
+                        <td><a href="files\ReporteClientes.pdf" download="ReporteClientes" className='boton-volver-Reportes-PDF-gerente'>PDF</a></td>
                     </tr>
                     <tr>
                         <td>xxxxxxxxx</td>
                         <td>9999999999</td>
                         <td>99/99/9999</td>
-                        <td><a href="Files\ReporteClientes.pdf" download="ReporteClientes" className='boton-volver-Reportes-PDF-gerente'>PDF</a></td>
+                        <td><a href="files\ReporteClientes.pdf" download="ReporteClientes" className='boton-volver-Reportes-PDF-gerente'>PDF</a></td>
                     </tr>
                     <tr>
                         <td>xxxxxxxxx</td>
                         <td>9999999999</td>
                         <td>99/99/9999</td>
-                        <td><a href="Files\ReporteClientes.pdf" download="ReporteClientes" className='boton-volver-Reportes-PDF-gerente'>PDF</a></td>
+                        <td><a href="files\ReporteClientes.pdf" download="ReporteClientes" className='boton-volver-Reportes-PDF-gerente'>PDF</a></td>
                     </tr>
                     <tr>
                         <td>xxxxxxxxx</td>
                         <td>9999999999</td>
                         <td>99/99/9999</td>
-                        <td><a href="Files\ReporteClientes.pdf" download="ReporteClientes" className='boton-volver-Reportes-PDF-gerente'>PDF</a></td>
+                        <td><a href="files\ReporteClientes.pdf" download="ReporteClientes" className='boton-volver-Reportes-PDF-gerente'>PDF</a></td>
                     </tr>
                     <tr>
                         <td>xxxxxxxxx</td>
                         <td>9999999999</td>
                         <td>99/99/9999</td>
-                        <td><a href="Files\ReporteClientes.pdf" download="ReporteClientes" className='boton-volver-Reportes-PDF-gerente'>PDF</a></td>
+                        <td><a href="files\ReporteClientes.pdf" download="ReporteClientes" className='boton-volver-Reportes-PDF-gerente'>PDF</a></td>
                     </tr>
                     <tr>
                         <td>xxxxxxxxx</td>
                         <td>9999999999</td>
                         <td>99/99/9999</td>
-                        <td><a href="Files\ReporteClientes.pdf" download="ReporteClientes" className='boton-volver-Reportes-PDF-gerente'>PDF</a></td>
+                        <td><a href="files\ReporteClientes.pdf" download="ReporteClientes" className='boton-volver-Reportes-PDF-gerente'>PDF</a></td>
                     </tr>
                     <tr>
                         <td>xxxxxxxxx</td>
                         <td>9999999999</td>
                         <td>99/99/9999</td>
-                        <td><a href="Files\ReporteClientes.pdf" download="ReporteClientes" className='boton-volver-Reportes-PDF-gerente'>PDF</a></td>
+                        <td><a href="files\ReporteClientes.pdf" download="ReporteClientes" className='boton-volver-Reportes-PDF-gerente'>PDF</a></td>
                     </tr>
                     </tbody>
                     
